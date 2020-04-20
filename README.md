@@ -9,4 +9,4 @@ This script was written for the visulization of 3D histograms in the following t
 
 
 Demo:
-![](docs/fnhistogram.pdf)
+![](docs/fnhistogram.png)
